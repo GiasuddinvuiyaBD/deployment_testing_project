@@ -1,9 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Courgette&family=Dosis:wght@300&family=Fasthand&family=Lobster&family=Open+Sans&family=PT+Sans+Narrow&family=PT+Serif&family=Quicksand&family=Raleway&display=swap');
 .box {
     width: 300px;
     margin: 15px;
     padding: 10px;
-    border: 1px solid #757575;
+    border: 1px solid #7575756b;
     border-radius: 6px;
+    font-family: 'Raleway', sans-serif;
+    box-shadow: 4px 4px 5px 1px #808080a1;
+}
+
+.box h2 {
+    margin: 15px 0px;
 }
 
 .box button 
